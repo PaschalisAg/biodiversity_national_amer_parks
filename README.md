@@ -61,6 +61,7 @@ This project focuses on analyzing biodiversity data to derive actionable insight
 1. **Code**:
    - The analysis is provided in the `biodiversity.ipynb` notebook.
    - Ensure Python libraries such as Pandas, NumPy, Matplotlib, and Scipy are installed.
+   - Run `pip install -r requirements.txt` to install necessary dependencies.
 2. **Data**:
    - Place `observations.csv` and `species_info.csv` in the working directory.
    - Update file paths in the notebook if necessary.
